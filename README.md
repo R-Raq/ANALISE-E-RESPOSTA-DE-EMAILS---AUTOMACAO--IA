@@ -14,3 +14,7 @@ O sistema utiliza **Qwen3 através do Ollama** para analisar mensagens, classifi
 - Executar o modelo de IA localmente
 - Retornar respostas estruturadas
 - Validar a saída da IA com Pydantic
+ 
+ ## Requisitos
+
+ -Baixar pacotes ollama(python -m pip install ollama)
