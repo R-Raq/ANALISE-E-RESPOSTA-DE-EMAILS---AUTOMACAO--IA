@@ -1,4 +1,4 @@
-# Automação E-mail IA
+# Automação de E-mail com IA
 
 Aplicação em Python para análise e triagem de e-mails utilizando um modelo de linguagem executado localmente.
 
