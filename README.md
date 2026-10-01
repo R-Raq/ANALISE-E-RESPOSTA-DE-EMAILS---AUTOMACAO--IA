@@ -17,4 +17,4 @@ O sistema utiliza **Qwen3 através do Ollama** para analisar mensagens, classifi
  
  ## Requisitos
 
- -Baixar pacotes ollama(python -m pip install ollama)
+ -Baixar pacotes ollama
